@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T13:42:05.649Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuveh5le007n01rvdeg3m9zg). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
@@ -27,7 +27,7 @@
 
 started working on schematic diagram for starbie so far completed the microconnector buttons and one of the pins in the first 30 mins i had a little bit of a hard time figuring how to use kicad since its my first time and i think ive gotten the hang of it
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/79994f64e13de6c6e9fbdd82019338e091bb8f95159f90d24d240ad0ea893659.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/79994f64e13de6c6e9fbdd82019338e091bb8f95159f90d24d240ad0ea893659.png)
 
 ok i finished the schematic now onto the pcb editor so far nothing has gone wrong thankfully i might get all the design part done in under 10 hours so ill prbably have time left to make extra designs
 
@@ -35,11 +35,11 @@ alright i have finished the layout for my starbie i did forget to click on edge.
 
 i experienced some issues with routing where i named the nets wrong thanks to the half life channel i figured out the problem and fixed it now my routing is complete
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/8cb3689fdd5d4c96fe92ffb7cb6caf1b38e5a4ae79fb747a7ed64ee99665f01c.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/8cb3689fdd5d4c96fe92ffb7cb6caf1b38e5a4ae79fb747a7ed64ee99665f01c.png)
 
 i ran into two extra errors that shouldnt come up so i asked about it in the half life channel and i fixed it by redoing the outline and making sure they didnt overlap with each other
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/0989a61fa922f72f01fa70eb267ef220bd35932aa6d699897da95cce85055d81.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/0989a61fa922f72f01fa70eb267ef220bd35932aa6d699897da95cce85055d81.png)
 
 finally im done with my pcb design all i have left is the firmware which ill be doing in the following days
 
@@ -51,29 +51,29 @@ finally im done with my pcb design all i have left is the firmware which ill be 
 
 started working with the firmware for the starbie, little overwhelmed but i am pretty confident
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/34ea971a3a7de33825ccc2687dfdf63d23c6d739fde232a856d47f08c9448fbc.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/34ea971a3a7de33825ccc2687dfdf63d23c6d739fde232a856d47f08c9448fbc.png)
 
 as of now im modifiying menu options im not really familiar with c++ but i am familiar with python and some elements here are quite similiar which makes my work a little easier
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/91c94e370827cfb752b56ea0e585a3cfe11b0fb0a7ebb3b182359fd97a9e10f5.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/91c94e370827cfb752b56ea0e585a3cfe11b0fb0a7ebb3b182359fd97a9e10f5.png)
 
 added a sparkle effect im almost done had no problems with this whatsoever
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/0073423ab4c50ff4047170725c77e1dfa4d34e3350776a4cbc8b6b008ebe2b14.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/0073423ab4c50ff4047170725c77e1dfa4d34e3350776a4cbc8b6b008ebe2b14.png)
 
 now onto the pixel art that i wanna add a heart first just to see how it works then ill move onto more and more drawings
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/e1838c3e18bf6208d06f6ccda8a298bf59c19705b0789ca882c15ea8ec3baab8.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/e1838c3e18bf6208d06f6ccda8a298bf59c19705b0789ca882c15ea8ec3baab8.png)
 
 im having a little trouble with the byte array looking towards fixing the problem
 
 im still having problems with image2cpp my image appears plain white or black so im redoing the entire art again
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/1d7303cad5783c7609008175944ed1d595a681abb935e509996238fd24aa3f83.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/1d7303cad5783c7609008175944ed1d595a681abb935e509996238fd24aa3f83.png)
 
 i finally fixed the problem turns out i downloaded the img as a jpg file and not png i generated the code and pasted it under PET_SPRITE
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/8f91c3972984f26ab94705bbd984158d3f5a6b3c12c1be619df6c01c72febbe6.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/8f91c3972984f26ab94705bbd984158d3f5a6b3c12c1be619df6c01c72febbe6.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/9eea8e27-fba7-4a3c-9ec8-00aade9eedfe/video.mp4)
 
@@ -83,11 +83,11 @@ i finally fixed the problem turns out i downloaded the img as a jpg file and not
 
 i fixed some errors with the rendering of my pcb later on i will modify my pcb slightly with the acquired knowledge
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/5803e062a337800c7f82ffe406657c0542a13b28763cdbe1d7f5da55152182b3.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/5803e062a337800c7f82ffe406657c0542a13b28763cdbe1d7f5da55152182b3.png)
 
 finally got the rendering right i put in the right files
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/295ade48c21e9b9e74caf4e32ff269afeb28e09afc7a4420a78bf8a17c84fa6b.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/295ade48c21e9b9e74caf4e32ff269afeb28e09afc7a4420a78bf8a17c84fa6b.png)
 
 now im modifying my pcb a bit
 
@@ -95,11 +95,11 @@ i plan to add an extra button to familiarize im having a slight problem the butt
 
 i fixed the issue by assigning the footprint now the pcb contains 3 buttons
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/c8fa57229fad0987af24c06842f002244280682527dc0ad1e6b4e47a16ddeab1.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/c8fa57229fad0987af24c06842f002244280682527dc0ad1e6b4e47a16ddeab1.png)
 
 now im going to start adding art to my pcb
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/06f58668e0de0ca0844d91d73a115b77a531e5fac6dee4724922e014599e9270.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/06f58668e0de0ca0844d91d73a115b77a531e5fac6dee4724922e014599e9270.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/524ca269-6a48-4b88-a5b1-45b19eb0c9aa/video.mp4)
 
@@ -109,7 +109,7 @@ now im going to start adding art to my pcb
 
 adding more art to my pcb
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/9a556c7ba6ea2f9a387da6cad8c8a78fe7b8e38414771a1ac99577965e9956de.png)
+![image](https://halflife.hackclub-assets.com/sessions/8V6nxtjEs9s45JqS78sSTwiFpKy3Z453/9a556c7ba6ea2f9a387da6cad8c8a78fe7b8e38414771a1ac99577965e9956de.png)
 
 i wanted to make my pcb look more lively and beutiful i addeda porsche 911 on the bottom a few graphics to make the buttons looks cool and finally the minecraft inspired heart emoji
 
